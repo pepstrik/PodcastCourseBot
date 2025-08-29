@@ -23,4 +23,11 @@ Python · python-telegram-bot v20 · fpdf2 · asyncio
 
 > См. [PORTFOLIO_ONLY.md](PORTFOLIO_ONLY.md) для пояснения.
 
+---
+
+![CI](https://github.com/pepstrik/PodcastCourseBot/actions/workflows/ci.yml/badge.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
+---
+
 > English version: [README_EN.md](README_EN.md)
