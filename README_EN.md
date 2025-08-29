@@ -23,4 +23,11 @@ Python · python-telegram-bot v20 · fpdf2 · asyncio
 
 > See [PORTFOLIO_ONLY.md](PORTFOLIO_ONLY.md) for portfolio disclaimer.
 
+---
+
+![CI](https://github.com/pepstrik/PodcastCourseBot/actions/workflows/ci.yml/badge.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
+---
+
 > Версия на русском: [README.md](README.md)
