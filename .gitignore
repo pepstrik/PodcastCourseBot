@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# System files
+.DS_Store
+
+# Configs and secrets
+config.py
+*.env
+.env
+
+# Databases
+*.sqlite
+*.sqlite3
